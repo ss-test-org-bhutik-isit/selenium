@@ -1,0 +1,114 @@
+repo_name: DotEspartoORGForPersonal/Selenium
+report_id: 53e6b4b62b5168dff84d87baca1ef5ec
+repo_type: Public
+timestamp: '2023-11-08T11:01:45+00:00'
+requested_by: web-flow
+provider: github
+branch: main
+detected_tools_count: 7
+tools:
+- name: Java
+  description: A concurrent, class-based, object-oriented, language specifically designed
+    to have as few implementation dependencies as possible
+  website_url: https://www.java.com
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source: Repo Metadata
+- name: MySQL
+  description: The world's most popular open source database
+  website_url: http://www.mysql.com
+  open_source: true
+  hosted_saas: false
+  category: Data Stores
+  sub_category: Databases
+  image_url: https://img.stackshare.io/service/1025/logo-mysql-170x170.png
+  detection_source: DataDrivenFramwork/pom.xml
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
+- name: Log4j
+  description: A Java-based logging utility
+  website_url: https://logging.apache.org/log4j/2.x/
+  version: 1.2.17
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Monitoring
+  sub_category: Logging Tools
+  image_url: https://img.stackshare.io/service/2804/Coralogix-log4j-integration.jpg
+  detection_source_url: DataDrivenFramwork/pom.xml
+  detection_source: DataDrivenFramwork/pom.xml
+- name: TestNG
+  description: A testing framework inspired from JUnit and NUnit
+  website_url: http://testng.org/doc/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Testing Frameworks
+  image_url: https://img.stackshare.io/service/8900/no-img-open-source.png
+  detection_source: DataDrivenFramwork/pom.xml
+- name: commons-io:commons-io
+  description: The Apache Commons IO library contains utility classes
+  version: '2.6'
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: DataDrivenFramwork/pom.xml
+  detection_source: DataDrivenFramwork/pom.xml
+  vulnerabilities:
+  - name: Path Traversal and Improper Input Validation in Apache Commons IO
+    cve_id: CVE-2021-29425
+    cve_url: https://github.com/advisories/GHSA-gwrp-pvrq-jmwv
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: '2.7'
+- name: mysql:mysql-connector-java
+  description: MySQL JDBC Type 4 driver
+  version: 8.0.12
+  license: GPL-3.0-only
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Maven Packages
+  image_url: https://img.stackshare.io/package/maven/image.png
+  detection_source_url: DataDrivenFramwork/pom.xml
+  detection_source: DataDrivenFramwork/pom.xml
+  vulnerabilities:
+  - name: Improper Privilege Management in MySQL Connectors Java
+    cve_id: CVE-2018-3258
+    cve_url: https://github.com/advisories/GHSA-4vrv-ch96-6h42
+    detected_date: Jun 29
+    severity: high
+    first_patched: 8.0.13
+  - name: Privilege escalation in mysql-connector-jav
+    cve_id: CVE-2019-2692
+    cve_url: https://github.com/advisories/GHSA-jcq3-cprp-m333
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 8.0.16
+  - name: Incorrect Authorization in MySQL Connector Java
+    cve_id: CVE-2021-2471
+    cve_url: https://github.com/advisories/GHSA-w6f2-8wx4-47r5
+    detected_date: Jun 23
+    severity: moderate
+    first_patched: 8.0.27
+  - name: Improper Handling of Insufficient Permissions or Privileges in MySQL Connectors
+      Java
+    cve_id: CVE-2022-21363
+    cve_url: https://github.com/advisories/GHSA-g76j-4cxx-23h9
+    detected_date: Jun 21
+    severity: moderate
+    first_patched: 8.0.28
