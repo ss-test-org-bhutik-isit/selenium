@@ -1,8 +1,8 @@
 repo_name: DotEspartoORGForPersonal/Selenium
-report_id: 91fd0b82c91aa0e6020327aa29b6a32b
+report_id: 3ca4c7150ad03c973c884164b96613cd
 repo_type: Public
-timestamp: '2023-11-10T14:55:16+00:00'
-requested_by: web-flow
+timestamp: '2023-11-23T11:10:56+00:00'
+requested_by: Bhautikdotesparto
 provider: github
 branch: main
 detected_tools_count: 7
@@ -40,7 +40,7 @@ tools:
 - name: Log4j
   description: A Java-based logging utility
   website_url: https://logging.apache.org/log4j/2.x/
-  version: 1.2.17
+  version: 1.2.20
   license: Apache-2.0
   open_source: true
   hosted_saas: false
@@ -49,8 +49,8 @@ tools:
   image_url: https://img.stackshare.io/service/2804/Coralogix-log4j-integration.jpg
   detection_source_url: DataDrivenFramwork/pom.xml
   detection_source: DataDrivenFramwork/pom.xml
-  last_updated_by: Bhautik
-  last_updated_on: 2022-11-16 11:28:48.000000000 Z
+  last_updated_by: DotEsparto1
+  last_updated_on: 2023-11-15 15:53:06.000000000 Z
 - name: TestNG
   description: A testing framework inspired from JUnit and NUnit
   website_url: http://testng.org/doc/
