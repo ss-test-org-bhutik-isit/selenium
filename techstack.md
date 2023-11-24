@@ -26,7 +26,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [DotEspartoORGForPersonal/Selenium](https://github.com/DotEspartoORGForPersonal/Selenium)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|7<br/>Tools used|11/23/23 <br/>Report generated|
+|7<br/>Tools used|11/24/23 <br/>Report generated|
 |------|------|
 </div>
 
@@ -92,8 +92,8 @@ Full tech stack [here](/techstack.md)
 
 |NAME|VERSION|LAST UPDATED|LAST UPDATED BY|LICENSE|VULNERABILITIES|
 |:------|:------|:------|:------|:------|:------|
-|[commons-io:commons-io](http://commons.apache.org/proper/commons-io/)|v2.6|11/16/22|Bhautik |Apache-2.0|[CVE-2021-29425](https://github.com/advisories/GHSA-gwrp-pvrq-jmwv) (Moderate)|
-|[mysql:mysql-connector-java](http://dev.mysql.com/doc/connector-j/en/)|v8.0.12|11/16/22|Bhautik |GPL-3.0-only|[CVE-2018-3258](https://github.com/advisories/GHSA-4vrv-ch96-6h42) (High)<br/>[CVE-2019-2692](https://github.com/advisories/GHSA-jcq3-cprp-m333) (Moderate)<br/>[CVE-2021-2471](https://github.com/advisories/GHSA-w6f2-8wx4-47r5) (Moderate)<br/>[CVE-2022-21363](https://github.com/advisories/GHSA-g76j-4cxx-23h9) (Moderate)|
+|[commons-io:commons-io](http://commons.apache.org/proper/commons-io/)|v2.6|N/A|N/A |Apache-2.0|[CVE-2021-29425](https://github.com/advisories/GHSA-gwrp-pvrq-jmwv) (Moderate)|
+|[mysql:mysql-connector-java](http://dev.mysql.com/doc/connector-j/en/)|v8.0.12|N/A|N/A |GPL-3.0-only|[CVE-2018-3258](https://github.com/advisories/GHSA-4vrv-ch96-6h42) (High)<br/>[CVE-2019-2692](https://github.com/advisories/GHSA-jcq3-cprp-m333) (Moderate)<br/>[CVE-2021-2471](https://github.com/advisories/GHSA-w6f2-8wx4-47r5) (Moderate)<br/>[CVE-2022-21363](https://github.com/advisories/GHSA-g76j-4cxx-23h9) (Moderate)|
 
 <br/>
 <div align='center'>
