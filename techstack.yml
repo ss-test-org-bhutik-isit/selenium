@@ -1,7 +1,7 @@
 repo_name: DotEspartoORGForPersonal/Selenium
-report_id: 12d5dddd125700a55b52bc596bc69662
+report_id: 3c012f03ed24e452af51cfd5d31e59c3
 repo_type: Public
-timestamp: '2023-11-23T15:16:32+00:00'
+timestamp: '2023-11-24T18:04:46+00:00'
 requested_by: Bhautikdotesparto
 provider: github
 branch: main
@@ -26,8 +26,6 @@ tools:
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1025/logo-mysql-170x170.png
   detection_source: DataDrivenFramwork/pom.xml
-  last_updated_by: Bhautik
-  last_updated_on: 2022-11-16 11:28:48.000000000 Z
 - name: Git
   description: Fast, scalable, distributed revision control system
   website_url: http://git-scm.com/
@@ -49,8 +47,6 @@ tools:
   image_url: https://img.stackshare.io/service/2804/Coralogix-log4j-integration.jpg
   detection_source_url: DataDrivenFramwork/pom.xml
   detection_source: DataDrivenFramwork/pom.xml
-  last_updated_by: DotEsparto1
-  last_updated_on: 2023-11-15 15:53:06.000000000 Z
 - name: TestNG
   description: A testing framework inspired from JUnit and NUnit
   website_url: http://testng.org/doc/
@@ -61,8 +57,6 @@ tools:
   sub_category: Testing Frameworks
   image_url: https://img.stackshare.io/service/8900/no-img-open-source.png
   detection_source: DataDrivenFramwork/pom.xml
-  last_updated_by: Bhautik
-  last_updated_on: 2022-11-16 11:28:48.000000000 Z
 - name: commons-io:commons-io
   description: The Apache Commons IO library contains utility classes
   version: '2.6'
@@ -74,8 +68,6 @@ tools:
   image_url: https://img.stackshare.io/package/maven/image.png
   detection_source_url: DataDrivenFramwork/pom.xml
   detection_source: DataDrivenFramwork/pom.xml
-  last_updated_by: Bhautik
-  last_updated_on: 2022-11-16 11:28:48.000000000 Z
   vulnerabilities:
   - name: Path Traversal and Improper Input Validation in Apache Commons IO
     cve_id: CVE-2021-29425
@@ -94,8 +86,6 @@ tools:
   image_url: https://img.stackshare.io/package/maven/image.png
   detection_source_url: DataDrivenFramwork/pom.xml
   detection_source: DataDrivenFramwork/pom.xml
-  last_updated_by: Bhautik
-  last_updated_on: 2022-11-16 11:28:48.000000000 Z
   vulnerabilities:
   - name: Improper Privilege Management in MySQL Connectors Java
     cve_id: CVE-2018-3258
