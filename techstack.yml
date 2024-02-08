@@ -1,8 +1,8 @@
-repo_name: DotEspartoORGForPersonal/Selenium
-report_id: 7b29e11b551aa1fbbb3d0c4f592ea100
+repo_name: ss-test-org-bhutik-isit/selenium
+report_id: 1a3bd70e3e325741d1441f7bf7f6e0dd
 version: 0.1
 repo_type: Public
-timestamp: '2023-12-26T15:36:05+00:00'
+timestamp: '2024-02-08T12:37:22+00:00'
 requested_by: Bhautikdotesparto
 provider: github
 branch: main
@@ -17,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/995/K85ZWV2F.png
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/selenium
   detection_source: Repo Metadata
 - name: MySQL
   description: The world's most popular open source database
@@ -26,6 +27,7 @@ tools:
   category: Data Stores
   sub_category: Databases
   image_url: https://img.stackshare.io/service/1025/logo-mysql-170x170.png
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/selenium/blob/main/DataDrivenFramwork/pom.xml
   detection_source: DataDrivenFramwork/pom.xml
   last_updated_by: Bhautik
   last_updated_on: 2022-11-16 11:28:48.000000000 Z
@@ -37,6 +39,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/selenium
   detection_source: Repo Metadata
 - name: Log4j
   description: A Java-based logging utility
@@ -48,7 +51,7 @@ tools:
   category: Monitoring
   sub_category: Logging Tools
   image_url: https://img.stackshare.io/service/2804/Coralogix-log4j-integration.jpg
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/Selenium/blob/main/DataDrivenFramwork/pom.xml
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/selenium/blob/main/DataDrivenFramwork/pom.xml
   detection_source: DataDrivenFramwork/pom.xml
   last_updated_by: DotEsparto1
   last_updated_on: 2023-11-15 15:53:06.000000000 Z
@@ -61,6 +64,7 @@ tools:
   category: Build, Test, Deploy
   sub_category: Testing Frameworks
   image_url: https://img.stackshare.io/service/8900/no-img-open-source.png
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/selenium/blob/main/DataDrivenFramwork/pom.xml
   detection_source: DataDrivenFramwork/pom.xml
   last_updated_by: Bhautik
   last_updated_on: 2022-11-16 11:28:48.000000000 Z
@@ -73,7 +77,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/Selenium/blob/main/DataDrivenFramwork/pom.xml
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/selenium/blob/main/DataDrivenFramwork/pom.xml
   detection_source: DataDrivenFramwork/pom.xml
   last_updated_by: Bhautik
   last_updated_on: 2022-11-16 11:28:48.000000000 Z
@@ -93,7 +97,7 @@ tools:
   category: Libraries
   sub_category: Maven Packages
   image_url: https://img.stackshare.io/package/maven/image.png
-  detection_source_url: https://github.com/DotEspartoORGForPersonal/Selenium/blob/main/DataDrivenFramwork/pom.xml
+  detection_source_url: https://github.com/ss-test-org-bhutik-isit/selenium/blob/main/DataDrivenFramwork/pom.xml
   detection_source: DataDrivenFramwork/pom.xml
   last_updated_by: Bhautik
   last_updated_on: 2022-11-16 11:28:48.000000000 Z
