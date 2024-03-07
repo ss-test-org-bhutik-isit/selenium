@@ -1,8 +1,8 @@
 repo_name: ss-test-org-bhutik-isit/selenium
-report_id: 3acfa764c04c9e86d341a9a38084b80d
+report_id: 06014d476031b1684a82d0eb6ccf5292
 version: 0.1
 repo_type: Public
-timestamp: '2024-02-08T13:48:15+00:00'
+timestamp: '2024-03-07T17:33:32+00:00'
 requested_by: Bhautikdotesparto
 provider: github
 branch: main
@@ -134,13 +134,13 @@ tools:
     cve_url: https://github.com/advisories/GHSA-hwj3-m3p6-hj38
     detected_date: Jan 28
     severity: critical
-    first_patched: 
+    first_patched:
   - name: Dom4j contains a XML Injection vulnerability
     cve_id: CVE-2018-1000632
     cve_url: https://github.com/advisories/GHSA-6pcc-3rfx-4gpm
     detected_date: Jan 28
     severity: high
-    first_patched: 
+    first_patched:
 - name: io.github.bonigarcia:webdrivermanager
   description: Automatic Selenium WebDriver binaries management in runtime for Java
   version: 5.2.3
